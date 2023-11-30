@@ -12,7 +12,7 @@ Em abril de 2023, tive a oportunidade de participar do [IV MIT Critical Data HIA
 As equipes foram compostas por profissionais de ciência de dados, saúde e engenharia, sob orientação de mentores nacionais e internacionais.
 Nos dedicamos em um trabalho prático de análise de bancos de dados reais sobre genômica clínica para responder perguntas desafiadoras de forma colaborativa.
 
-Você pode conferir a publicação no LinkedInd sobre o evento [aqui](https://www.linkedin.com/posts/felipe-franco-19587211a_meu-primeiro-datathon-foi-intenso-e-em-%C3%B3tima-activity-7058264919900643328-JZwa?utm_source=share&utm_medium=member_desktop).
+Você pode conferir a publicação no Linkedin sobre o evento [aqui](https://www.linkedin.com/posts/felipe-franco-19587211a_meu-primeiro-datathon-foi-intenso-e-em-%C3%B3tima-activity-7058264919900643328-JZwa?utm_source=share&utm_medium=member_desktop).
 
 ## Artigos Científicos
 
