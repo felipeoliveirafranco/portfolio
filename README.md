@@ -17,7 +17,7 @@ Você pode conferir a publicação no Linkedin sobre o evento [aqui](https://www
 ## Artigos Científicos
 
 ### Computer-aided autism diagnosis approach based on visual attention models using eye tracking: a replication study and improvement proposal.
-![status](https://img.shields.io/badge/status-aguarda_publicar-blue.svg) ![revista](https://img.shields.io/badge/periodico-BMCMedicalInformaticsAndDecisionMaking-blue.svg) ![ano](https://img.shields.io/badge/ano-2023-blue.svg)
+![status](https://img.shields.io/badge/status-aguarda_publicar-blue.svg) ![revista](https://img.shields.io/badge/periodico-BMCMedicalInformaticsAndDecisionMaking-blue.svg) ![ano](https://img.shields.io/badge/ano-2024-blue.svg)
 
 Aguarda puplicação.
 #
