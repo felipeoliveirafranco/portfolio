@@ -17,19 +17,19 @@ Você pode conferir a publicação no Linkedin sobre o evento [aqui](https://www
 ## Artigos Científicos
 
 ### Computer-aided autism diagnosis approach based on visual attention models using eye tracking: a replication study and improvement proposal.
-![status](https://img.shields.io/badge/status-aprovado-blue.svg) ![revista](https://img.shields.io/badge/periodico-BMCMedicalInformaticsAndDecisionMaking-blue.svg) ![ano](https://img.shields.io/badge/ano-2024-blue.svg)
+![status](https://img.shields.io/badge/status-aprovado-blue.svg) ![revista](https://img.shields.io/badge/periodico-BMC_Medical_Informatics_And_Decision_Making-blue.svg) ![ano](https://img.shields.io/badge/ano-2024-blue.svg)
 
 Aguarda puplicação.
 #
 
 ### Assessment of vulnerability dimensions considering Family History and Environmental Interplay in Autism Spectrum Disorder.
-![status](https://img.shields.io/badge/status-publicado-blue.svg) ![revista](https://img.shields.io/badge/periodico-BMCPsychiatry-blue.svg) ![ano](https://img.shields.io/badge/ano-2023-blue.svg)
+![status](https://img.shields.io/badge/status-publicado-blue.svg) ![revista](https://img.shields.io/badge/periodico-BMC_Psychiatry-blue.svg) ![ano](https://img.shields.io/badge/ano-2023-blue.svg)
 
 O artigo pode ser acessado [aqui](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-023-04747-3).
 #
 
 ### Computer-aided autism diagnosis based on visual attention models using eye tracking.
-![status](https://img.shields.io/badge/status-publicado-blue.svg) ![revista](https://img.shields.io/badge/periodico-ScientificReports-blue.svg) ![ano](https://img.shields.io/badge/ano-2021-blue.svg)
+![status](https://img.shields.io/badge/status-publicado-blue.svg) ![revista](https://img.shields.io/badge/periodico-Scientific_Reports-blue.svg) ![ano](https://img.shields.io/badge/ano-2021-blue.svg)
 
 O artigo pode ser acessado [aqui](https://www.nature.com/articles/s41598-021-89023-8).
 #
