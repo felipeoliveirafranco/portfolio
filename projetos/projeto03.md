@@ -1,11 +1,4 @@
-<div align='center'>
-<img src="https://github.com/felipeoliveirafranco/vem-ser-tech-dados/blob/main/modulo03/projeto-final/images/image00.png" width="100%"/>
-</div>
-
-&nbsp;
-
-Esse projeto faz parte do [módulo de Banco de Dados](https://github.com/felipeoliveirafranco/vem-ser-tech-dados/blob/main/modulo03/projeto-final/readme.md).
-Para isso, foi criado um contexto de negócio.
+# Desenvolvimento e Análise de um Sistema de Banco de Dados
 
 Iremos trabalhar com o caso da plataforma de Streaming 🥑 Foodie-Fi 🥑.
 
