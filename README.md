@@ -13,7 +13,7 @@ Você pode acessar todos os meu projeto nesse [arquivo](https://github.com/felip
 
 &nbsp;
 
-**[Classificação NPS: Replicação do algoritmo K-Nearest Neighbors (KNN) sem bilbiotecas Python](https://github.com/felipeoliveirafranco/portfolio/blob/main/projetos/projeto01.ipynb)**
+**[Classificação NPS: Implementação do Algoritmo K-Nearest Neighbors (KNN) sem Bilbiotecas Python](https://github.com/felipeoliveirafranco/portfolio/blob/main/projetos/projeto01.ipynb)**
 
 O objetivo foi desenvolver um código que replica o algoritmo K-Nearest Neighbors sem depender de bibliotecas Python. 
 Os dados utilizados representam o histórico de compras de clientes em uma empresa de logística de entrega de alimentos, incluindo o valor gasto nas últimas 4 compras e a classificação NPS (Promotor, Neutro, Detrator). A ideia foi utilizar as últimas compras de clientes já classificados para estimar a classificação NPS daqueles que ainda não foram avaliados. 
@@ -21,7 +21,7 @@ Essa abordagem proporcionou uma previsão de satisfação com base nos padrões 
 
 &nbsp;
 
-**[Análise de Comunicação por Gestos com Python](https://github.com/felipeoliveirafranco/portfolio/blob/main/projetos/projeto02.ipynb)**
+**[Manipulação de JSON e Análise de Bounding Boxes com Python](https://github.com/felipeoliveirafranco/portfolio/blob/main/projetos/projeto02.ipynb)**
 
 Este projeto propõe uma solução para a análise e compreensão da comunicação por gestos. 
 Ao examinar os gestos através de vetores e áreas de bounding box, a solução calcula de forma rápida a área média, mínima e máxima das bounding boxes, identificando gestos de maneira eficaz. 
@@ -39,12 +39,6 @@ Além disso, enfatizamos a importância de monitorar o churn e coletar feedback 
 
 &nbsp;
 
-## Artigos Científicos
-
-[Aqui](https://github.com/felipeoliveirafranco/portfolio/tree/main/artigos-cientificos) você encontrará meus artigos científicos publicados.
-
-&nbsp;
-
 ## Datathons
 
 Em abril de 2023, tive a oportunidade de participar do [IV MIT Critical Data HIAE Datathon in Healthcare](https://eventos.ensinoeinstein.com/data-hiae-datathon-in-healthcare/) no Hospital Israelista Albert Einsten.
@@ -54,6 +48,47 @@ Nos dedicamos em um trabalho prático de análise de bancos de dados reais sobre
 
 Você pode conferir a publicação no Linkedin sobre o evento [aqui](https://www.linkedin.com/posts/felipe-franco-19587211a_meu-primeiro-datathon-foi-intenso-e-em-%C3%B3tima-activity-7058264919900643328-JZwa?utm_source=share&utm_medium=member_desktop).
 
+&nbsp;
+
+## Artigos Científicos
+
+Os artigos mais relevantes estão listados abaixo. Se desejar conferir a lista completa de todos os meus artigos publicados, visite meu perfil no [Google Scholar](https://scholar.google.com.br/citations?hl=pt-BR&user=pstBQPkAAAAJ&view_op=list_works&sortby=pubdate) ou [Research Gate](https://www.researchgate.net/profile/Felipe-Franco-5)..
+
+&nbsp;
+
+### Computer-aided autism diagnosis approach based on visual attention models using eye tracking: a replication study and improvement proposal
+
+![status](https://img.shields.io/badge/status-aprovado-blue.svg) ![revista](https://img.shields.io/badge/periodico-BMC_Medical_Informatics_And_Decision_Making-blue.svg) ![ano](https://img.shields.io/badge/ano-2024-blue.svg)
+
+Aguarda puplicação.
+#
+
+### Assessment of vulnerability dimensions considering Family History and Environmental Interplay in Autism Spectrum Disorder
+
+![status](https://img.shields.io/badge/status-publicado-blue.svg) ![revista](https://img.shields.io/badge/periodico-BMC_Psychiatry-blue.svg) ![ano](https://img.shields.io/badge/ano-2023-blue.svg)
+
+O artigo pode ser acessado [aqui](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-023-04747-3).
+#
+
+### Computer-aided autism diagnosis based on visual attention models using eye tracking
+
+![status](https://img.shields.io/badge/status-publicado-blue.svg) ![revista](https://img.shields.io/badge/periodico-Scientific_Reports-blue.svg) ![ano](https://img.shields.io/badge/ano-2021-blue.svg)
+
+O artigo pode ser acessado [aqui](https://www.nature.com/articles/s41598-021-89023-8).
+#
+
+### Classification of autism spectrum disorder severity using eye tracking data based on visual attention model
+
+![status](https://img.shields.io/badge/status-publicado-blue.svg) ![revista](https://img.shields.io/badge/periodico-IEEE-blue.svg) ![ano](https://img.shields.io/badge/ano-2021-blue.svg)
+
+O projeto foi apresentado no *34th International Symposium on Computer-Based Medical Systems (CBMS)* que aconteceu em Aveiro, Portugal. O artigo pode ser acessado [aqui](https://ieeexplore.ieee.org/document/9474657).
+#
+
+### Autism spectrum disorder diagnosis based on trajectories of eye tracking data
+
+![status](https://img.shields.io/badge/status-publicado-blue.svg) ![revista](https://img.shields.io/badge/periodico-IEEE-blue.svg) ![ano](https://img.shields.io/badge/ano-2021-blue.svg)
+
+O projeto foi apresentado no *34th International Symposium on Computer-Based Medical Systems (CBMS)* que aconteceu em Aveiro, Portugal. O artigo pode ser acessado [aqui](https://ieeexplore.ieee.org/document/9474680).
 
 
 #
