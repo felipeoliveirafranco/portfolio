@@ -19,7 +19,7 @@ A solução gerencia dados de entrada, realiza cálculos usando funções nativa
 
 &nbsp;
 
-### [Desenvolvimento e Análise de um Sistema de Banco de Dados]()
+### [Desenvolvimento e Análise de um Sistema de Banco de Dados](https://github.com/felipeoliveirafranco/portfolio/blob/main/projetos/projeto03.md)
 
 O objetivo do projeto foi a concepção do banco de dados, implementação através de SQL e análise dos dados da plataforma de streaming Foodie-Fi. 
 Desenvolvemos o DER, criamos as tabelas e utilizamos os dados digitais no estilo de assinatura para responder a questões importantes do negócio. 
