@@ -52,7 +52,7 @@ Você pode conferir a publicação no Linkedin sobre o evento [aqui](https://www
 
 ## Artigos Científicos
 
-Os artigos mais relevantes estão listados abaixo. Se desejar conferir a lista completa de todos os meus artigos publicados, visite meu perfil no [Google Scholar](https://scholar.google.com.br/citations?hl=pt-BR&user=pstBQPkAAAAJ&view_op=list_works&sortby=pubdate) ou [Research Gate](https://www.researchgate.net/profile/Felipe-Franco-5)..
+Os artigos mais relevantes estão listados abaixo. Se desejar conferir a lista completa de todos os meus artigos publicados, visite meu perfil no [Google Scholar](https://scholar.google.com.br/citations?hl=pt-BR&user=pstBQPkAAAAJ&view_op=list_works&sortby=pubdate) ou [Research Gate](https://www.researchgate.net/profile/Felipe-Franco-5).
 
 &nbsp;
 
