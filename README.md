@@ -58,7 +58,7 @@ Os artigos mais relevantes estão listados abaixo. Se desejar conferir a lista c
 
 ### Computer-aided autism diagnosis approach based on visual attention models using eye tracking: a replication study and improvement proposal
 
-![status](https://img.shields.io/badge/status-aprovado-blue.svg) ![revista](https://img.shields.io/badge/periodico-BMC_Medical_Informatics_And_Decision_Making-blue.svg) ![ano](https://img.shields.io/badge/ano-2023-blue.svg)
+![status](https://img.shields.io/badge/status-publicado-blue.svg) ![revista](https://img.shields.io/badge/periodico-BMC_Medical_Informatics_And_Decision_Making-blue.svg) ![ano](https://img.shields.io/badge/ano-2023-blue.svg)
 
 O artigo pode ser acessado [aqui](https://link.springer.com/article/10.1186/s12911-023-02389-9?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20231214&utm_content=10.1186/s12911-023-02389-9).
 #
