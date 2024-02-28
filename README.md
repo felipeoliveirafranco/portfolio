@@ -13,7 +13,7 @@ Você pode acessar todos os meu projeto nesse [arquivo](https://github.com/felip
 
 &nbsp;
 
-**[Classificação NPS: Implementação do Algoritmo K-Nearest Neighbors (KNN) sem Bilbiotecas Python](https://github.com/felipeoliveirafranco/portfolio/blob/main/projetos/projeto01.ipynb)**
+**[Classificação NPS: Implementação do Algoritmo K-Nearest Neighbors (KNN) sem Bibliotecas Python](https://github.com/felipeoliveirafranco/portfolio/blob/main/projetos/projeto01.ipynb)**
 
 O objetivo foi desenvolver um código que replica o algoritmo K-Nearest Neighbors sem depender de bibliotecas Python. 
 Os dados utilizados representam o histórico de compras de clientes em uma empresa de logística de entrega de alimentos, incluindo o valor gasto nas últimas 4 compras e a classificação NPS (Promotor, Neutro, Detrator). A ideia foi utilizar as últimas compras de clientes já classificados para estimar a classificação NPS daqueles que ainda não foram avaliados. 
